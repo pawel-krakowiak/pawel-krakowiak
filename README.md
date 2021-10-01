@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @FuRaJ3003 / Paweł Krakowiak
-- Determined self-taught man 😉
+👋 Hi, I’m @FuRaJ3003 / Paweł Krakowiak
+Determined self-taught man 😉
+
 
 [🐍 Python / Django 🐍] [My Native] <2017🕵️>
 [🌐 HTML / CSS / PHP / SQL 🌐] <2016🕵️>
