@@ -9,6 +9,7 @@ of Python programming experience.
 
 👍 Completed several commercial projects - websites and web applications.
 
+Below are some of the technologies and programming languages that I use:
 - [🐍 Python / Django 🐍] [My Native] <2017🕵️>
 - [🌐 HTML / CSS / PHP / SQL 🌐] <2016🕵️>
 
