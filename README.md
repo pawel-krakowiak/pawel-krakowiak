@@ -1,13 +1,14 @@
 👋 Hi, I’m @FuRaJ3003 / Paweł Krakowiak
 Determined self-taught man 😉
 
-👀 My profile includes some public repositories with projects that you can take a look at.
+- 👀 My profile includes some public repositories with projects that you can take a look at. 
 (Not all, but some - the more interesting ones... 😉)
 
-👨‍💻 I've been learning programming since 2016 including three years
+- 👨‍💻 I've been learning programming since 2016 including three years
 of Python programming experience.
 
-👍 Completed several commercial projects - websites and web applications.
+- 👍 Completed several commercial projects - websites and web applications.
+
 
 Below are some of the technologies and programming languages that I use:
 - [🐍 Python / Django 🐍] [My Native] <2017🕵️>
