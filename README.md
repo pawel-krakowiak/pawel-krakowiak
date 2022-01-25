@@ -19,11 +19,18 @@ of Python programming experience.
 
 
 Below are some of the technologies and programming languages that I use:
-2017 [🐍 Python / Django] [Native] 
-2016 [🌐 HTML / CSS / PHP / SQL] 
-2021 [🌸GraphQL] 
-2021 [⚛️React.js ]
-2019 [♟️SourcePawn]
+<ul>
+ <li>2017 [🐍 Python / Django] [Native]</li>
+ <li>2016 [🌐 HTML / CSS / PHP / SQL] </li>
+ <li>2021 [🌸GraphQL]</li>
+ <li>2021 [⚛️React.js ]</li>
+ <li>2019 [♟️SourcePawn]</li>
+</ul>
+
+
+
+
+
 
 
  
