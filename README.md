@@ -14,7 +14,7 @@
 👨‍💻 I've been learning programming since 2016 including three years
 of Python programming experience.
 
-👍 Completed several commercial projects - websites and web applications. Full-time job engineer.
+👍 Completed several commercial projects - websites and web applications.
 
 
 
