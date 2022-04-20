@@ -4,7 +4,7 @@
 ☁⠀ｈｅｌｌｏ ｗｏｒｌｄ 
 ```
 
-### 👋 Hi, I’m @FuRaJ3003 / Paweł Krakowiak
+### 👋 Hi, I’m @pawel-krakowiak / Paweł Krakowiak
 #### Determined self-taught man 😉
 
 
