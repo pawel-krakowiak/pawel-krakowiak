@@ -13,10 +13,6 @@
 ### 👋 Hi, I’m @pawel-krakowiak / Paweł Krakowiak
 <p> ~ Determined self-taught man. </p>
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawel-krakowiak&theme=dracula&layout=compact)
-
 <span>👀 My profile includes some public repositories with projects that you can take a look at.</span>
 <p>(Not all, but some - the more interesting ones!)</p>
 
