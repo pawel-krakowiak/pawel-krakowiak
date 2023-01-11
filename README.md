@@ -20,14 +20,6 @@
 <span>👀 My profile includes some public repositories with projects that you can take a look at.</span>
 <p>(Not all, but some - the more interesting ones!)</p>
 
-### Tech Stack :computer:
- * 2017 [Python / Django] [💙💛]
- * 2016 [HTML / CSS / PHP / SQL]
- * 2021 [GraphQL]
- * 2021 [React.js]
- * 2019 [SourcePawn]
-
-
 <a href="https://www.youtube.com/watch?v=7VcHqlS5mWc&ab_channel=YeetTheMan"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align='center'>
