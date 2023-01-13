@@ -1,5 +1,3 @@
-<a href="https://www.youtube.com/watch?v=7VcHqlS5mWc&ab_channel=YeetTheMan"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <p align='center'>
 ———————————— &nbsp&nbsp&nbsp[ ⎯ ⠀❐⠀⤬ ]
 </p>
@@ -9,6 +7,9 @@
 <p align='center'>
 ——————————————————
 </p>
+
+
+<a href="https://www.youtube.com/watch?v=7VcHqlS5mWc&ab_channel=YeetTheMan"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 👋 Hi, I’m @pawel-krakowiak / Paweł Krakowiak
 <p> ~ Determined self-taught man. </p>
